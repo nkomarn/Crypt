@@ -1,0 +1,5 @@
+.vscode
+devices.json
+devices-backup.json
+blobs/
+tsschecker
